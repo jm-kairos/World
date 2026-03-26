@@ -1,6 +1,6 @@
 # Planet Renderer
 
-An OpenGL-based 3D planet renderer built in C++14 that generates and renders spherical terrain using tessellation shaders.
+An OpenGL-based 3D planet renderer in the making, built in C++14 that generates and renders spherical terrain using tessellation shaders.
 
 ## Features
 
@@ -44,10 +44,6 @@ An OpenGL-based 3D planet renderer built in C++14 that generates and renders sph
 | `Esc` | Quit |
 
 ## Building
-
-1. Open `game.sln` in Visual Studio 2022
-2. Set the build configuration to **Debug** or **Release** (x64)
-3. Build and run with `F5`
 
 > **Note:** All dependencies are included in the `game/dependencies/` folder.
 
