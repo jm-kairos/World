@@ -1,5 +1,3 @@
-# Planet Renderer
-
 An OpenGL-based 3D planet renderer in the making, built in C++14 that generates and renders spherical terrain using tessellation shaders.
 
 ## Features
